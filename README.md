@@ -2,7 +2,6 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning HTML CSS JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me IG:_pprriinn_
 
 <!---
 Printerestingly/Printerestingly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
