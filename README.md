@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Printerestingly
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML CSS JavaScript
+- 🌱 I’m currently learning Java C
 - 💞️ I’m looking to collaborate on ...
 
 <!---
